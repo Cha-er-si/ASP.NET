@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial By TimCorey", "Tutorial By TimCorey\Tutorial By TimCorey.csproj", "{369F31F7-B013-4D6E-9D8D-3E6E0D01B13A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDemo", "Tutorial By TimCorey\MVCDemo.csproj", "{369F31F7-B013-4D6E-9D8D-3E6E0D01B13A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
